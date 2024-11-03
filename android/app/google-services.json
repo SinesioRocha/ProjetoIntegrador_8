@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "736084769112",
+    "firebase_url": "https://piclinica-a37ba-default-rtdb.firebaseio.com",
+    "project_id": "piclinica-a37ba",
+    "storage_bucket": "piclinica-a37ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736084769112:android:88bbed1fee00efe697cd2d",
+        "android_client_info": {
+          "package_name": "com.example.clinica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgr0WHIBCP2rOTyRjSlROCOFMsWa4COqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
